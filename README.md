@@ -1,5 +1,5 @@
 
-![My Image1]([Picture_ReadMe/AWS AI_ML Scholarship Recipient.webp](https://raw.githubusercontent.com/julietarubis/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/main/Picture_ReadMe/AWS%20AI_ML%20Scholarship%20Recipient.webp))
+![My Image1]((https://raw.githubusercontent.com/julietarubis/Udacity-Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds/main/Picture_ReadMe/AWS%20AI_ML%20Scholarship%20Recipient.webp))
 
 
 Congratulations!
