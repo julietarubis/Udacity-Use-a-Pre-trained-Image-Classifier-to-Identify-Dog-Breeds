@@ -1,5 +1,5 @@
 
-![My Image](Picture_ReadMe/AWS AI_ML Scholarship Recipient.webp)
+![My Image1](Picture_ReadMe/AWS AI_ML Scholarship Recipient.webp)
 
 
 Congratulations!
@@ -32,5 +32,5 @@ CONCLUSION
 
 Again, great job overall on the project. I hope you learnt a lot from working on it. Enjoy the remaining lessons of the Nanodegree and Stay Udacious! 💪
 
-![My Image](Picture_ReadMe/p1-completed-aws-udacity-Julieta_Rubis.webp)
+![My Image2](Picture_ReadMe/p1-completed-aws-udacity-Julieta_Rubis.webp)
 
