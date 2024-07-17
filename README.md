@@ -1,5 +1,5 @@
 
-![My Image1](Picture_ReadMe/AWS AI_ML Scholarship Recipient.webp)
+![My Image2](Picture_ReadMe/p1-completed-aws-udacity-Julieta_Rubis.webp)
 
 
 Congratulations!
