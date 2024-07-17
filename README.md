@@ -1,5 +1,7 @@
 
 ![My Image](Picture_ReadMe/AWS AI_ML Scholarship Recipient.webp)
+
+
 Congratulations!
 
 Congratulations on passing the project. You did a good job overall on it. I particularly liked that when getting the pet labels in get_pet_labels.py you used the .isalpha() function. It is a robust way to filter the words that should be kept and those that should be removed when building the pet labels. Very well done!
