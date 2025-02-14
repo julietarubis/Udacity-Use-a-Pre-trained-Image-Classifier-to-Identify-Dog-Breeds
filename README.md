@@ -2,33 +2,43 @@
 ![My Image2](Picture_ReadMe/p1-completed-aws-udacity-Julieta_Rubis.webp)
 
 
-Congratulations!
+# Udacity Project: Use a Pre-trained Image Classifier to Identify Dog Breeds
 
-Congratulations on passing the project. You did a good job overall on it. I particularly liked that when getting the pet labels in get_pet_labels.py you used the .isalpha() function. It is a robust way to filter the words that should be kept and those that should be removed when building the pet labels. Very well done!
-RECOMMENDATION
+![Project Image](Picture_ReadMe/p1-completed-aws-udacity-Julieta_Rubis.webp)
 
-To help improve your code, I have left you on the rubric items and on the code files comments with suggestions. Consider reading the comments and implement the suggestions. You will find that they enrich your knowledge and understanding. 🙂
+## Overview
 
-If you do implement the suggestions, please, avoid breaking your code by following these guidelines:
+This repository contains the implementation of a project for the Udacity Machine Learning Nanodegree. The objective of this project is to use a pre-trained image classifier to identify dog breeds. The project demonstrates the application of transfer learning techniques to classify images of dogs into different breeds.
 
-    Always implement one at a time and run your code before implementing another. This will help ensure that if you do end up with an error you know which change led to it.
-    Do not remove your own code before implementing a suggestion. Instead, just comment the part of the code you are changing.
-    Always check that with each new implementation you are still getting the correct output.
+## Project Structure
 
-RESOURCES
+The project is structured as follows:
 
-Here is, for your convenience, a summary of the links that I shared and/or mentioned in this review:
+- `get_pet_labels.py`: This script is responsible for extracting pet labels from the image files.
+- `README.md`: This file provides an overview and guidelines for the project.
+- `Picture_ReadMe/`: This directory contains the images used in the README.
 
-    The Python time.sleep() function(opens in a new tab)
-    The choices parameter of Argparse(opens in a new tab)
-    The type parameter of Argparse(opens in a new tab)
-    The .join() Function(opens in a new tab)
-    List Comprehension(opens in a new tab)
-    The .items() Method of Dictionaries(opens in a new tab)
-    The .values() Method of Dictionaries(opens in a new tab)
-    The os.path.join() Function(opens in a new tab)
+## Instructions
 
-CONCLUSION
+To help improve your code, consider the following recommendations:
 
-Again, great job overall on the project. I hope you learnt a lot from working on it. Enjoy the remaining lessons of the Nanodegree and Stay Udacious! 💪
+- Implement one suggestion at a time and run your code before implementing another. This ensures that if an error occurs, you know which change led to it.
+- Do not remove your own code before implementing a suggestion. Instead, comment out the part of the code you are changing.
+- Always check that with each new implementation, you are still getting the correct output.
 
+## Resources
+
+Here is a summary of useful links that may help you with the project:
+
+- [The Python time.sleep() function](https://docs.python.org/3/library/time.html#time.sleep)
+- [The choices parameter of Argparse](https://docs.python.org/3/library/argparse.html#choices)
+- [The type parameter of Argparse](https://docs.python.org/3/library/argparse.html#type)
+- [The .join() Function](https://docs.python.org/3/library/stdtypes.html#str.join)
+- [List Comprehension](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
+- [The .items() Method of Dictionaries](https://docs.python.org/3/library/stdtypes.html#dict.items)
+- [The .values() Method of Dictionaries](https://docs.python.org/3/library/stdtypes.html#dict.values)
+- [The os.path.join() Function](https://docs.python.org/3/library/os.path.html#os.path.join)
+
+## Conclusion
+
+Great job overall on the project! I hope you learned a lot from working on it. Enjoy the remaining lessons of the Nanodegree and Stay Udacious! 💪
