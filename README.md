@@ -1,6 +1,6 @@
 ![Project Image](Picture_ReadMe/p1-completed-aws-udacity-Julieta_Rubis.webp)
 
-AWS AI & ML Scholarship: Use a Pre-trained Image Classifier to Identify Dog Breeds
+## AWS AI & ML Scholarship: Use a Pre-trained Image Classifier to Identify Dog Breeds
 
 ## Overview
 This project is part of the AWS AI & ML Scholarship Program (Udacity). It utilizes pre-trained deep learning models (e.g., AlexNet, VGG, ResNet) to classify images of dogs into their respective breeds.
@@ -24,15 +24,16 @@ alexnet_uploaded-images.txt   # AlexNet model results
 resnet_uploaded-images.txt    # ResNet model results
 run_models_batch.sh       # Shell script for batch execution
 run_models_batch_uploaded.sh  # Shell script for uploaded images
+
 Scripts (Core Functionality)
-   - adjust_results4_isadog.py      # Adjusts classification results
-   - calculates_results_stats.py    # Computes model performance stats
-   - check_images.py                # Verifies image inputs
-   - classify_images.py             # Core classifier script
-   - get_input_args.py              # Handles command-line arguments
-   - get_pet_labels.py              # Extracts labels from dataset
-   - print_results.py               # Displays classification results
-   - test_classifier.py             # Test script for model performance
+      - adjust_results4_isadog.py      # Adjusts classification results
+      - calculates_results_stats.py    # Computes model performance stats
+      - check_images.py                # Verifies image inputs
+      - classify_images.py             # Core classifier script
+      - get_input_args.py              # Handles command-line arguments
+      - get_pet_labels.py              # Extracts labels from dataset
+      - print_results.py               # Displays classification results
+      - test_classifier.py             # Test script for model performance
 
 ## Installation & Setup
 1.  Clone the Repository
