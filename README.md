@@ -14,25 +14,25 @@ This project is part of the AWS AI & ML Scholarship Program (Udacity). It utiliz
 
 ## Repository Structure
 Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
-├── 📜 README.md                 # Project Documentation (this file)
-├── 📂 pet_images                # Dataset folder (input images)
-├── 📂 uploaded_images           # Images processed for classification
-├── 📂 __pycache__               # Cached Python files
-├── 📜 dognames.txt              # List of dog breeds
-├── 📜 imagenet1000_clsid_to_human.txt # ImageNet class-to-human mapping
-├── 📜 alexnet_uploaded-images.txt   # AlexNet model results
-├── 📜 resnet_uploaded-images.txt    # ResNet model results
-├── 📜 run_models_batch.sh       # Shell script for batch execution
-├── 📜 run_models_batch_uploaded.sh  # Shell script for uploaded images
-├── 📂 Scripts (Core Functionality)
-│   ├── adjust_results4_isadog.py      # Adjusts classification results
-│   ├── calculates_results_stats.py    # Computes model performance stats
-│   ├── check_images.py                # Verifies image inputs
-│   ├── classify_images.py             # Core classifier script
-│   ├── get_input_args.py              # Handles command-line arguments
-│   ├── get_pet_labels.py              # Extracts labels from dataset
-│   ├── print_results.py               # Displays classification results
-│   ├── test_classifier.py             # Test script for model performance
+README.md                 # Project Documentation (this file)
+pet_images                # Dataset folder (input images)
+uploaded_images           # Images processed for classification
+__pycache__               # Cached Python files
+dognames.txt              # List of dog breeds
+imagenet1000_clsid_to_human.txt # ImageNet class-to-human mapping
+alexnet_uploaded-images.txt   # AlexNet model results
+resnet_uploaded-images.txt    # ResNet model results
+run_models_batch.sh       # Shell script for batch execution
+run_models_batch_uploaded.sh  # Shell script for uploaded images
+Scripts (Core Functionality)
+   - adjust_results4_isadog.py      # Adjusts classification results
+   - calculates_results_stats.py    # Computes model performance stats
+   - check_images.py                # Verifies image inputs
+   - classify_images.py             # Core classifier script
+   - get_input_args.py              # Handles command-line arguments
+   - get_pet_labels.py              # Extracts labels from dataset
+   - print_results.py               # Displays classification results
+   - test_classifier.py             # Test script for model performance
 
 ## Installation & Setup
 1.  Clone the Repository
