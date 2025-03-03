@@ -16,16 +16,16 @@ This project is part of the AWS AI & ML Scholarship Program (Udacity). It utiliz
 
 Use-a-Pre-trained-Image-Classifier-to-Identify-Dog-Breeds
 
-            README.md                 # Project Documentation (this file)
-            pet_images                # Dataset folder (input images)
-            uploaded_images           # Images processed for classification
-            __pycache__               # Cached Python files
-            dognames.txt              # List of dog breeds
-            imagenet1000_clsid_to_human.txt # ImageNet class-to-human mapping
-            alexnet_uploaded-images.txt   # AlexNet model results
-            resnet_uploaded-images.txt    # ResNet model results
-            run_models_batch.sh       # Shell script for batch execution
-            run_models_batch_uploaded.sh  # Shell script for uploaded images
+            - README.md                 # Project Documentation (this file)
+            - pet_images                # Dataset folder (input images)
+            - uploaded_images           # Images processed for classification
+            - __pycache__               # Cached Python files
+            - dognames.txt              # List of dog breeds
+            - imagenet1000_clsid_to_human.txt # ImageNet class-to-human mapping
+            - alexnet_uploaded-images.txt   # AlexNet model results
+            - resnet_uploaded-images.txt    # ResNet model results
+            - run_models_batch.sh       # Shell script for batch execution
+            - run_models_batch_uploaded.sh  # Shell script for uploaded images
 
 Scripts (Core Functionality)
 
